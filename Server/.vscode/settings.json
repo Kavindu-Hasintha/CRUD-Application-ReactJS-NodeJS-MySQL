@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "crudReactNodeConnection",
+            "database": "crud_re_no_db",
+            "username": "crud_re_no_db_user",
+            "password": "crud_re_no_db_user"
+        }
+    ]
+}
